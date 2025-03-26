@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/4b9fa3d5-1783-4e00-835c-5a625b55d07c" alt="giphy" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB1M2l1eGx5OXA5ZTYzN3hiajV2cHp0cjZhdjc4MnVqZmp0bmRqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif" alt="giphy" width="600"/>
 
   <h2>✨ About Me</h2>
   
